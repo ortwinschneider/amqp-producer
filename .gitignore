@@ -36,3 +36,4 @@ nb-configuration.xml
 
 
 .odo/odo-file-index.json
+.odo/env
